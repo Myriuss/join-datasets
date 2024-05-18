@@ -1,0 +1,97 @@
+codegeo,libelle_departement,votants2022,voix_vainqueur2022,nom_vainqueur2022,prenom_vainqueur2022,parti_politique_vainq2022,positionnement_politique_vainq2022
+01,Ain,340568,92206,MACRON,Emmanuel,Renaissance,Centre
+02,Aisne,272455,104342,LE PEN,Marine,Rassemblement National,Extreme droite
+2A,Corse-du-Sud,71552,20139,LE PEN,Marine,Rassemblement National,Extreme droite
+2B,Haute-Corse,80851,21998,LE PEN,Marine,Rassemblement National,Extreme droite
+03,Allier,191494,50315,LE PEN,Marine,Rassemblement National,Extreme droite
+04,Alpes-de-Haute-Provence,98785,26010,LE PEN,Marine,Rassemblement National,Extreme droite
+05,Hautes-Alpes,88162,20507,MACRON,Emmanuel,Renaissance,Centre
+06,Alpes-Maritimes,570332,148919,LE PEN,Marine,Rassemblement National,Extreme droite
+07,Ardèche,201745,49594,LE PEN,Marine,Rassemblement National,Extreme droite
+08,Ardennes,136829,48242,LE PEN,Marine,Rassemblement National,Extreme droite
+09,Ariège,94011,23908,MÉLENCHON,Jean-Luc,La France insoumise,Extreme gauche
+10,Aube,153167,49316,LE PEN,Marine,Rassemblement National,Extreme droite
+11,Aude,216955,64027,LE PEN,Marine,Rassemblement National,Extreme droite
+12,Aveyron,175635,47430,MACRON,Emmanuel,Renaissance,Centre
+13,Bouches-du-Rhône,1027368,264753,LE PEN,Marine,Rassemblement National,Extreme droite
+14,Calvados,394349,120366,MACRON,Emmanuel,Renaissance,Centre
+15,Cantal,90726,25038,MACRON,Emmanuel,Renaissance,Centre
+16,Charente,197699,53126,MACRON,Emmanuel,Renaissance,Centre
+17,Charente-Maritime,402765,113753,MACRON,Emmanuel,Renaissance,Centre
+18,Cher,164762,44772,LE PEN,Marine,Rassemblement National,Extreme droite
+19,Corrèze,146602,33125,MACRON,Emmanuel,Renaissance,Centre
+21,"Côte-d'Or",288973,80734,MACRON,Emmanuel,Renaissance,Centre
+22,"Côtes-d'Armor",375155,113656,MACRON,Emmanuel,Renaissance,Centre
+23,Creuse,68979,16772,LE PEN,Marine,Rassemblement National,Extreme droite
+24,Dordogne,253312,63327,LE PEN,Marine,Rassemblement National,Extreme droite
+25,Doubs,284262,76338,MACRON,Emmanuel,Renaissance,Centre
+26,Drôme,297899,72228,MACRON,Emmanuel,Renaissance,Centre
+27,Eure,325735,102952,LE PEN,Marine,Rassemblement National,Extreme droite
+28,Eure-et-Loir,224928,61960,LE PEN,Marine,Rassemblement National,Extreme droite
+29,Finistère,554831,174894,MACRON,Emmanuel,Renaissance,Centre
+30,Gard,422315,121480,LE PEN,Marine,Rassemblement National,Extreme droite
+31,Haute-Garonne,746955,196712,MACRON,Emmanuel,Renaissance,Centre
+32,Gers,119011,28970,MACRON,Emmanuel,Renaissance,Centre
+33,Gironde,909534,256179,MACRON,Emmanuel,Renaissance,Centre
+34,Hérault,651599,165734,LE PEN,Marine,Rassemblement National,Extreme droite
+35,Ille-et-Vilaine,610209,205882,MACRON,Emmanuel,Renaissance,Centre
+36,Indre,124694,34516,LE PEN,Marine,Rassemblement National,Extreme droite
+37,Indre-et-Loire,334966,101503,MACRON,Emmanuel,Renaissance,Centre
+38,Isère,686764,180533,MACRON,Emmanuel,Renaissance,Centre
+39,Jura,148963,38179,LE PEN,Marine,Rassemblement National,Extreme droite
+40,Landes,263683,69459,MACRON,Emmanuel,Renaissance,Centre
+41,Loir-et-Cher,185368,50480,MACRON,Emmanuel,Renaissance,Centre
+42,Loire,395202,104003,MACRON,Emmanuel,Renaissance,Centre
+43,Haute-Loire,143706,38629,LE PEN,Marine,Rassemblement National,Extreme droite
+44,Loire-Atlantique,820354,256609,MACRON,Emmanuel,Renaissance,Centre
+45,Loiret,343082,97004,MACRON,Emmanuel,Renaissance,Centre
+46,Lot,112114,27311,MACRON,Emmanuel,Renaissance,Centre
+47,Lot-et-Garonne,188397,50290,LE PEN,Marine,Rassemblement National,Extreme droite
+48,Lozère,48132,10739,MACRON,Emmanuel,Renaissance,Centre
+49,Maine-et-Loire,452397,157063,MACRON,Emmanuel,Renaissance,Centre
+50,Manche,291153,92642,MACRON,Emmanuel,Renaissance,Centre
+51,Marne,279634,83756,LE PEN,Marine,Rassemblement National,Extreme droite
+52,Haute-Marne,96116,34331,LE PEN,Marine,Rassemblement National,Extreme droite
+53,Mayenne,171910,60755,MACRON,Emmanuel,Renaissance,Centre
+54,Meurthe-et-Moselle,361138,97243,LE PEN,Marine,Rassemblement National,Extreme droite
+55,Meuse,100713,34588,LE PEN,Marine,Rassemblement National,Extreme droite
+56,Morbihan,478452,152740,MACRON,Emmanuel,Renaissance,Centre
+57,Moselle,535615,159254,LE PEN,Marine,Rassemblement National,Extreme droite
+58,Nièvre,115336,32838,LE PEN,Marine,Rassemblement National,Extreme droite
+59,Nord,1299873,373127,LE PEN,Marine,Rassemblement National,Extreme droite
+60,Oise,422040,132873,LE PEN,Marine,Rassemblement National,Extreme droite
+61,Orne,154603,46005,MACRON,Emmanuel,Renaissance,Centre
+62,Pas-de-Calais,807404,305816,LE PEN,Marine,Rassemblement National,Extreme droite
+63,Puy-de-Dôme,367234,100134,MACRON,Emmanuel,Renaissance,Centre
+64,Pyrénées-Atlantiques,409795,111610,MACRON,Emmanuel,Renaissance,Centre
+65,Hautes-Pyrénées,137848,33692,MACRON,Emmanuel,Renaissance,Centre
+66,Pyrénées-Orientales,274372,87930,LE PEN,Marine,Rassemblement National,Extreme droite
+67,Bas-Rhin,588488,177069,MACRON,Emmanuel,Renaissance,Centre
+68,Haut-Rhin,393877,107248,MACRON,Emmanuel,Renaissance,Centre
+69,Rhône,925646,278243,MACRON,Emmanuel,Renaissance,Centre
+70,Haute-Saône,138676,46618,LE PEN,Marine,Rassemblement National,Extreme droite
+71,Saône-et-Loire,307623,82633,MACRON,Emmanuel,Renaissance,Centre
+72,Sarthe,305854,83876,MACRON,Emmanuel,Renaissance,Centre
+73,Savoie,251780,64689,MACRON,Emmanuel,Renaissance,Centre
+74,Haute-Savoie,436281,130422,MACRON,Emmanuel,Renaissance,Centre
+75,Paris,1071357,372820,MACRON,Emmanuel,Renaissance,Centre
+76,Seine-Maritime,657105,179698,MACRON,Emmanuel,Renaissance,Centre
+77,Seine-et-Marne,676131,170969,MÉLENCHON,Jean-Luc,La France insoumise,Extreme gauche
+78,Yvelines,749537,246062,MACRON,Emmanuel,Renaissance,Centre
+79,Deux-Sèvres,213811,68446,MACRON,Emmanuel,Renaissance,Centre
+80,Somme,307369,98024,LE PEN,Marine,Rassemblement National,Extreme droite
+81,Tarn,235360,56543,LE PEN,Marine,Rassemblement National,Extreme droite
+82,Tarn-et-Garonne,149081,42183,LE PEN,Marine,Rassemblement National,Extreme droite
+83,Var,609692,183287,LE PEN,Marine,Rassemblement National,Extreme droite
+84,Vaucluse,309957,89413,LE PEN,Marine,Rassemblement National,Extreme droite
+85,Vendée,430416,149587,MACRON,Emmanuel,Renaissance,Centre
+86,Vienne,237707,67831,MACRON,Emmanuel,Renaissance,Centre
+87,Haute-Vienne,208258,54951,MACRON,Emmanuel,Renaissance,Centre
+88,Vosges,208999,65646,LE PEN,Marine,Rassemblement National,Extreme droite
+89,Yonne,180408,55164,LE PEN,Marine,Rassemblement National,Extreme droite
+90,Territoire de Belfort,71486,19061,LE PEN,Marine,Rassemblement National,Extreme droite
+91,Essonne,607300,167310,MÉLENCHON,Jean-Luc,La France insoumise,Extreme gauche
+92,Hauts-de-Seine,788877,287494,MACRON,Emmanuel,Renaissance,Centre
+93,Seine-Saint-Denis,554002,266632,MÉLENCHON,Jean-Luc,La France insoumise,Extreme gauche
+94,Val-de-Marne,600677,192427,MÉLENCHON,Jean-Luc,La France insoumise,Extreme gauche
+95,"Val-d'Oise",540676,175666,MÉLENCHON,Jean-Luc,La France insoumise,Extreme gauche
