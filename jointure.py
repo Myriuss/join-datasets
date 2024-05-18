@@ -1,17 +1,19 @@
 import pandas as pd
 
-# Charger les deux fichiers CSV avec un encodage différent
-df_2017 = pd.read_csv('cleanfinal_pres2017.csv', encoding='ISO-8859-1')
-df_2022 = pd.read_csv('cleanfinal_pres2022.csv', encoding='ISO-8859-1')
+# Charger les fichiers CSV dans des DataFrames
+chomage_df = pd.read_csv("chomageNet.csv", sep=";", encoding='ISO-8859-1')
+pres2017_df = pd.read_csv("cleanfinal_pres2017.csv", sep=";", encoding='ISO-8859-1')
+pres2022_df = pd.read_csv("cleanfinal_pres2022.csv", sep=";", encoding='ISO-8859-1')
+population_df = pd.read_csv("CleanPopulation1.csv", sep=";", encoding='ISO-8859-1')
 
-# Normaliser les valeurs de la colonne 'codegeo' pour avoir deux caractères
-df_2017['codegeo'] = df_2017['codegeo'].apply(lambda x: x.zfill(2))
-df_2022['codegeo'] = df_2022['codegeo'].apply(lambda x: x.zfill(2))
+# Effectuer la jointure entre les DataFrames
+result = chomage_df.merge(pres2017_df, on=["codegeo", "Libelle_departement"], how="inner") \
+                   .merge(pres2022_df, on=["codegeo", "Libelle_departement"], how="inner") \
+                   .merge(population_df, on=["codegeo", "Libelle_departement"], how="inner")
 
-# Effectuer la jointure sur les colonnes 'codegeo' et 'libelle_departement'
-df_merged = pd.merge(df_2017, df_2022, on=['codegeo', 'libelle_departement'], suffixes=('_2017', '_2022'))
+# Afficher un aperçu du résultat
+print(result.head())
 
-# Écrire le résultat dans un nouveau fichier CSV
-df_merged.to_csv('jointure.csv', index=False, encoding='utf-8')
 
-print("La jointure a été effectuée avec succès et enregistrée dans 'jointure.csv'.")
+# Enregistrer le résultat dans un nouveau fichier CSV
+result.to_csv("resultat_jointure.csv", index=False)
